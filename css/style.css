@@ -100,6 +100,7 @@ header .navbar a{
     font-size: 2rem;
     color:#fff;
     margin:2rem 0;
+    text-transform: capitalize;
 }
 
 header .navbar a:hover{
@@ -311,6 +312,22 @@ header .follow a:hover{
     width:80%;
 }
 
+
+.about .row-2 .skills .progress:nth-child(11) .bar span{
+    width:50%;
+}
+
+
+.about .row-2 .skills .progress:nth-child(12) .bar span{
+    width:60%;
+}
+
+
+.about .row-2 .skills .progress:nth-child(13) .bar span{
+    width:70%;
+}
+
+
 .about .row-2 .box-container{
     flex:1 1 40rem;
     display: flex;
@@ -511,6 +528,18 @@ header .follow a:hover{
     color:#fff;
     border-radius: 50%;
 }
+
+
+.contact .icons-container .icons a{
+    height:5rem;
+    width:5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    background: var(--main-color);
+    color:#fff;
+    border-radius: 50%;
+}
+
 
 .contact .icons-container .icons h3{
     color: white;
