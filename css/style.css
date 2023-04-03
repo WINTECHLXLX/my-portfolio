@@ -291,7 +291,7 @@ header .follow a:hover{
 }
 
 .about .row-2 .skills .progress:nth-child(6) .bar span{
-    width:80%;
+    width:60%;
 }
 
 .about .row-2 .skills .progress:nth-child(7) .bar span{
@@ -309,7 +309,7 @@ header .follow a:hover{
 
 
 .about .row-2 .skills .progress:nth-child(10) .bar span{
-    width:80%;
+    width:30%;
 }
 
 
